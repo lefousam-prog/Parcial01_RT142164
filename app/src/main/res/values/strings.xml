@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcial01_RT142164</string>
+    <!--
+    <string name="title_activity_splash">FullscreenActivity</string>  -->
+    <string name="saludo">Welcome</string>
+    <string name="foto">Take Photo</string>
+    <string name="regresar">Return</string>
+</resources>

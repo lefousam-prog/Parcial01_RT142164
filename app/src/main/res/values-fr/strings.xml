@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial01_RT142164</string>
+    <string name="saludo">Bienvenue</string>
+    <string name="foto" >Prendre photo</string>
+    <string name="regresar">Rendre</string>
+</resources>
